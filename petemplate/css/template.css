@@ -66,7 +66,7 @@ td { vertical-align: top; }
    Author: Ynon Perek
    ========================================================================== */
 
-body { background-image: url(../img/bk-body.jpg); }
+body { background-image: url(../images/bk-body.jpg); }
 #container { background-color: #ffffff; border: 1px solid #D0BA9E; margin: 35px auto 0 auto; width: 1005px; height: 980px; }
 header { padding: 24px; }
 
@@ -154,7 +154,7 @@ header { padding: 24px; }
 #featured {
     border-top: 2px solid #8c0c0e;
     height: 250px;
-    background-image: url(../img/bk-header.png), url(../img/header/cat_1.jpg);
+    background-image: url(../images/bk-header.png), url(../images/header/cat_1.jpg);
     background-position: right, left;
     background-repeat: no-repeat;
     margin-right: 0;
@@ -205,7 +205,7 @@ header { padding: 24px; }
 }
 
 .multiplebgs #links h3 {
-    background-image: url(../img/bk-links-center.jpg), url(../img/bk-links-left-01.jpg), url(../img/bk-links-right-01.jpg);
+    background-image: url(../images/bk-links-center.jpg), url(../images/bk-links-left-01.jpg), url(../images/bk-links-right-01.jpg);
     background-position: 12px 0px, 0 0, 270px;
     background-repeat: repeat-x, no-repeat, no-repeat;
 }
@@ -219,7 +219,7 @@ header { padding: 24px; }
     color: #561910;
     margin-top: 0;
 
-    background-image: url(../img/bk-links-center.jpg);
+    background-image: url(../images/bk-links-center.jpg);
     background-repeat: repeat-x;
 
     box-sizing: border-box;
@@ -265,7 +265,7 @@ header { padding: 24px; }
 
 #newsletter {
     height: 66px;
-    background: url(../img/bk-newsletterbox-01.jpg) repeat-x;
+    background: url(../images/bk-newsletterbox-01.jpg) repeat-x;
     border: 1px solid #fdc51a;
     padding-left: 4px;
     margin-right: -6px;
@@ -289,7 +289,7 @@ header { padding: 24px; }
     height: 66px;
     margin: 0;
     padding-right: 15px;
-    background-image: url(../img/bk-follow.jpg);
+    background-image: url(../images/bk-follow.jpg);
     border: 1px solid #ffd762;
 }
 
