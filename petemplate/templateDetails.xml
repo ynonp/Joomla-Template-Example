@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>petemplate</name>
+	<creationDate>2011-09-19</creationDate>
+	<author>Ynon Perek</author>
+	<authorEmail>ynonperek@yahoo.com</authorEmail>
+	<authorUrl>http://www.ynonperek.com</authorUrl>
+	<copyright>Ynon Perek 2011</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.2</version>
+	<description>Cute pets &amp; stuff</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</install>
+
